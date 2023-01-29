@@ -99,5 +99,26 @@ button, button:focus {
     margin-right: 1.2rem;
     margin-top: 1rem;
 }
+/* .grid{
+    display: flex;
+}
 
-/*# sourceMappingURL=style.css.map */
+.grid-item{
+    flex: 1;
+    padding: 1em;
+    border: solid;
+    height: 300px;
+    width: 200px;
+} */
+.imageC{
+    height:200px;width:230px;
+}
+
+/* text-align: center !important;
+width: 100px; 
+height: 100px; 
+position: absolute;
+top: 80%;
+left: 50%;
+margin: -50px 0 0 -50px;
+ */
